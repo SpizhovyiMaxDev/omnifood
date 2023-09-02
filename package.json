@@ -2,9 +2,9 @@
   "name": "omnifood-project",
   "version": "1.0.0",
   "description": "",
-  "defauld":"index.html",
+  "defauld": "index.html",
   "scripts": {
-    "start":"parcel index.html",
+    "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Max Spizhovyi",
